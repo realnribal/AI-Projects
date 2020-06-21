@@ -1,2 +1,2 @@
 # DataScience
-Some Data Science Stuff using Python
+Il s'agira de la description de tous mes projets en Traitement de données.
