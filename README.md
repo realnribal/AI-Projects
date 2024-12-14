@@ -1,4 +1,4 @@
-# DataScience
+# AI Projects
 Il s'agira de la description de tous mes projets en Traitement de données.
 
 # Projet 1 : Analyse de la production de miel aux USA (1998-2012)
